@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //something about directory
+=======
+//test
+>>>>>>> b8d62543ba21660b164ab39c96bb880535893718
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const BundleAnalyzerPlugin =
