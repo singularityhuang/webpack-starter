@@ -1,5 +1,5 @@
 # Webpack App Starter
-
+# Demo
 Frontend environment for building JavaScript applications
 
 Includes the following features...
